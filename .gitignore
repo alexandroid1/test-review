@@ -1,4 +1,5 @@
 /target
 /.idea
 # Created by .ignore support plugin (hsz.mobi)
-/test-review.iml
+.idea
+*.iml
